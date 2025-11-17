@@ -3,9 +3,9 @@ entries:
   neuralbank-stack:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-17T14:59:15.0055905-03:00"
+    created: "2025-11-17T15:55:34.2642581-03:00"
     description: Financial Risk Evaluation AI Application Demo
-    digest: e4c38b9cc4d3fa0255b41c0dd5027a32802ed2e4d4720f906cba9fbce719618b
+    digest: 7ec11e0de8ff4aa3c1b696e8a6bfd58405a247431f4c07ce9c38a27c092d7aee
     home: https://maximilianopizarro.github.io/neuralbank-stack/
     icon: https://maximilianopizarro.github.io/neuralbank-stack/neuralbank.svg
     keywords:
@@ -25,4 +25,4 @@ entries:
     urls:
     - neuralbank-stack-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-17T14:59:15.0045192-03:00"
+generated: "2025-11-17T15:55:34.263259-03:00"
