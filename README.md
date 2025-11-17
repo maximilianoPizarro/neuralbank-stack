@@ -2,6 +2,10 @@
 
 A Helm chart to deploy the NeuralBank stack: PostgreSQL (configured via globals), backend, frontend and an NGINX proxy/gateway.
 
+<div align="center">
+  <img src="https://maximilianopizarro.github.io/neuralbank-stack/topology.png" width="900"/>
+</div>
+
 ## Contents
 - backend: API service (configurable image, port, replicas)
 - frontend: static/web app (configurable image, port, replicas)
